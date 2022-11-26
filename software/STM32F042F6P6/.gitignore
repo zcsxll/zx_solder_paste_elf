@@ -1,0 +1,4 @@
+*.o
+*.d
+*.crf
+MDK-ARM\STM32F042F6P6
